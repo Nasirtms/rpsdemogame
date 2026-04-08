@@ -1,0 +1,860 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AdjustTransformByScreenWidth" preserve="all" />
+    <type fullname="AnimationParticleTrigger" preserve="all" />
+    <type fullname="AnimationTimer" preserve="all" />
+    <type fullname="AtomicMeltdownAutoSpinController" preserve="all" />
+    <type fullname="AtomicMeltdownBetController" preserve="all" />
+    <type fullname="AtomicMeltdownFreeGameTransitionController" preserve="all" />
+    <type fullname="AtomicMeltdownFreeSpinController" preserve="all" />
+    <type fullname="AtomicMeltdownGameSettings" preserve="all" />
+    <type fullname="AtomicMeltdownPaylineController" preserve="all" />
+    <type fullname="AtomicMeltdownReelScript" preserve="all" />
+    <type fullname="AtomicMeltdownRulesPopupController" preserve="all" />
+    <type fullname="AtomicMeltdownSlotMachine" preserve="all" />
+    <type fullname="AtomicMeltdownSlotScript" preserve="all" />
+    <type fullname="AtomicMeltdownSoundManager" preserve="all" />
+    <type fullname="AtomicMeltdownSpinButton" preserve="all" />
+    <type fullname="AtomicMeltdownUIButtonController" preserve="all" />
+    <type fullname="AtomicMeltdownUIManager" preserve="all" />
+    <type fullname="AudioManager_RPS" preserve="all" />
+    <type fullname="AutoScrollInputField" preserve="all" />
+    <type fullname="AvatarImageLoader" preserve="all" />
+    <type fullname="Backend_RPS" preserve="all" />
+    <type fullname="BackgroundHandler" preserve="all" />
+    <type fullname="BetManager_RPS" preserve="all" />
+    <type fullname="BiggerBassBonanzaAutoSpinController" preserve="all" />
+    <type fullname="BiggerBassBonanzaBetController" preserve="all" />
+    <type fullname="BiggerBassBonanzaFreeGameTransitionController" preserve="all" />
+    <type fullname="BiggerBassBonanzaFreeSpinController" preserve="all" />
+    <type fullname="BiggerBassBonanzaGameSettings" preserve="all" />
+    <type fullname="BiggerBassBonanzaPaylineController" preserve="all" />
+    <type fullname="BiggerBassBonanzaReelScript" preserve="all" />
+    <type fullname="BiggerBassBonanzaRulesPopupController" preserve="all" />
+    <type fullname="BiggerBassBonanzaSlotMachine" preserve="all" />
+    <type fullname="BiggerBassBonanzaSlotScript" preserve="all" />
+    <type fullname="BiggerBassBonanzaSoundManager" preserve="all" />
+    <type fullname="BiggerBassBonanzaUIButtonController" preserve="all" />
+    <type fullname="BiggerBassBonanzaUIManager" preserve="all" />
+    <type fullname="BonusFishController" preserve="all" />
+    <type fullname="BotController" preserve="all" />
+    <type fullname="BotManager" preserve="all" />
+    <type fullname="Bullet" preserve="all" />
+    <type fullname="BulletPool" preserve="all" />
+    <type fullname="CartoonFX.CFXR_Effect" preserve="all" />
+    <type fullname="CashMachineAutoSpinController" preserve="all" />
+    <type fullname="CashMachineBetController" preserve="all" />
+    <type fullname="CashMachineFreeGameTransitionController" preserve="all" />
+    <type fullname="CashMachineFreeSpinController" preserve="all" />
+    <type fullname="CashMachineGameSettings" preserve="all" />
+    <type fullname="CashMachinePaylineController" preserve="all" />
+    <type fullname="CashMachineReelScript" preserve="all" />
+    <type fullname="CashMachineRulesPopupController" preserve="all" />
+    <type fullname="CashMachineSlotMachine" preserve="all" />
+    <type fullname="CashMachineSlotScript" preserve="all" />
+    <type fullname="CashMachineSoundManager" preserve="all" />
+    <type fullname="CashMachineSpinButton" preserve="all" />
+    <type fullname="CashMachineUIButtonController" preserve="all" />
+    <type fullname="CashMachineUIManager" preserve="all" />
+    <type fullname="CasinoNotificationManager" preserve="all" />
+    <type fullname="ChilliMultiplyerUI" preserve="all" />
+    <type fullname="CleopatraAutoSpinController" preserve="all" />
+    <type fullname="CleopatraBetController" preserve="all" />
+    <type fullname="CleopatraFreeSpinController" preserve="all" />
+    <type fullname="CleopatraGameSettings" preserve="all" />
+    <type fullname="CleopatraGameTransitionController" preserve="all" />
+    <type fullname="CleopatraPaylineController" preserve="all" />
+    <type fullname="CleopatraReelScript" preserve="all" />
+    <type fullname="CleopatraRulesPopupController" preserve="all" />
+    <type fullname="CleopatraSlotMachine" preserve="all" />
+    <type fullname="CleopatraSlotScript" preserve="all" />
+    <type fullname="CleopatraSoundManager" preserve="all" />
+    <type fullname="CleopatraUIButtonController" preserve="all" />
+    <type fullname="CleopatraUIManager" preserve="all" />
+    <type fullname="CoinManager" preserve="all" />
+    <type fullname="CoinUpdateManager" preserve="all" />
+    <type fullname="ComeOnCash2AutoSpinController" preserve="all" />
+    <type fullname="ComeOnCash2BetController" preserve="all" />
+    <type fullname="ComeOnCash2FreeGameTransitionController" preserve="all" />
+    <type fullname="ComeOnCash2FreeSpinController" preserve="all" />
+    <type fullname="ComeOnCash2GameSettings" preserve="all" />
+    <type fullname="ComeOnCash2PaylineController" preserve="all" />
+    <type fullname="ComeOnCash2ReelScript" preserve="all" />
+    <type fullname="ComeOnCash2RulesPopupController" preserve="all" />
+    <type fullname="ComeOnCash2SlotMachine" preserve="all" />
+    <type fullname="ComeOnCash2SlotScript" preserve="all" />
+    <type fullname="ComeOnCash2SoundManager" preserve="all" />
+    <type fullname="ComeOnCash2SpinButton" preserve="all" />
+    <type fullname="ComeOnCash2UIButtonController" preserve="all" />
+    <type fullname="ComeOnCash2UIManager" preserve="all" />
+    <type fullname="ComeOnCashAutoSpinController" preserve="all" />
+    <type fullname="ComeOnCashBetController" preserve="all" />
+    <type fullname="ComeOnCashFreeGameTransitionController" preserve="all" />
+    <type fullname="ComeOnCashFreeSpinController" preserve="all" />
+    <type fullname="ComeOnCashGameSettings" preserve="all" />
+    <type fullname="ComeOnCashPaylineController" preserve="all" />
+    <type fullname="ComeOnCashReelScript" preserve="all" />
+    <type fullname="ComeOnCashRulesPopupController" preserve="all" />
+    <type fullname="ComeOnCashSlotMachine" preserve="all" />
+    <type fullname="ComeOnCashSlotScript" preserve="all" />
+    <type fullname="ComeOnCashSoundManager" preserve="all" />
+    <type fullname="ComeOnCashSpinButton" preserve="all" />
+    <type fullname="ComeOnCashUIButtonController" preserve="all" />
+    <type fullname="ComeOnCashUIManager" preserve="all" />
+    <type fullname="ComputerChoiceManager_RPS" preserve="all" />
+    <type fullname="congorepeat" preserve="all" />
+    <type fullname="CrazySevenAutoSpinController" preserve="all" />
+    <type fullname="CrazySevenBetController" preserve="all" />
+    <type fullname="CrazySevenFreeSpinController" preserve="all" />
+    <type fullname="CrazySevenGameSettings" preserve="all" />
+    <type fullname="CrazySevenGameTransitionController" preserve="all" />
+    <type fullname="CrazySevenMenuPanelController" preserve="all" />
+    <type fullname="CrazySevenPaylineController" preserve="all" />
+    <type fullname="CrazySevenReelScript" preserve="all" />
+    <type fullname="CrazySevenRulesPopupController" preserve="all" />
+    <type fullname="CrazySevenSlotMachine" preserve="all" />
+    <type fullname="CrazySevenSlotScript" preserve="all" />
+    <type fullname="CrazySevenSoundManager" preserve="all" />
+    <type fullname="CrazySevenUIButtonController" preserve="all" />
+    <type fullname="CrazySevenUIManager" preserve="all" />
+    <type fullname="CustomPasswordChar" preserve="all" />
+    <type fullname="CylindricalUIWarpSwipe" preserve="all" />
+    <type fullname="DayOfDeadAnimationController" preserve="all" />
+    <type fullname="DayOfDeadAutoSpinController" preserve="all" />
+    <type fullname="DayOfDeadBetController" preserve="all" />
+    <type fullname="DayOfDeadFreeGameTransitionController" preserve="all" />
+    <type fullname="DayOfDeadFreeSpinController" preserve="all" />
+    <type fullname="DayOfDeadFreeSpinTopBar" preserve="all" />
+    <type fullname="DayOfDeadGameSettings" preserve="all" />
+    <type fullname="DayOfDeadPaylineController" preserve="all" />
+    <type fullname="DayOfDeadReelScript" preserve="all" />
+    <type fullname="DayOfDeadRulesPopupController" preserve="all" />
+    <type fullname="DayOfDeadSlotMachine" preserve="all" />
+    <type fullname="DayOfDeadSlotScript" preserve="all" />
+    <type fullname="DayOfDeadSoundManager" preserve="all" />
+    <type fullname="DayOfDeadUIButtonController" preserve="all" />
+    <type fullname="DayOfDeadUIManager" preserve="all" />
+    <type fullname="DisableMe" preserve="all" />
+    <type fullname="DoubleJackpotBullseyeAutoSpinController" preserve="all" />
+    <type fullname="DoubleJackpotBullseyeBetController" preserve="all" />
+    <type fullname="DoubleJackpotBullseyeFreeGameTransitionController" preserve="all" />
+    <type fullname="DoubleJackpotBullseyeFreeSpinController" preserve="all" />
+    <type fullname="DoubleJackpotBullseyeGameSettings" preserve="all" />
+    <type fullname="DoubleJackpotBullseyePaylineController" preserve="all" />
+    <type fullname="DoubleJackpotBullseyeReelScript" preserve="all" />
+    <type fullname="DoubleJackpotBullseyeRulesPopupController" preserve="all" />
+    <type fullname="DoubleJackpotBullseyeSlotMachine" preserve="all" />
+    <type fullname="DoubleJackpotBullseyeSlotScript" preserve="all" />
+    <type fullname="DoubleJackpotBullseyeSoundManager" preserve="all" />
+    <type fullname="DoubleJackpotBullseyeSpinButton" preserve="all" />
+    <type fullname="DoubleJackpotBullseyeUIButtonController" preserve="all" />
+    <type fullname="DoubleJackpotBullseyeUIManager" preserve="all" />
+    <type fullname="EffectMover" preserve="all" />
+    <type fullname="EpicToonFX.ETFXLightFade" preserve="all" />
+    <type fullname="EpicToonFX.ETFXPitchRandomizer" preserve="all" />
+    <type fullname="EventAndNotification_Controller" preserve="all" />
+    <type fullname="FakeLoaderManager" preserve="all" />
+    <type fullname="FavoriteAnimationSpawner" preserve="all" />
+    <type fullname="FeedbackPanel" preserve="all" />
+    <type fullname="FeedbackStar" preserve="all" />
+    <type fullname="Fish" preserve="all" />
+    <type fullname="FishDatabase" preserve="all" />
+    <type fullname="FishGameSoundManager" preserve="all" />
+    <type fullname="FishManager" preserve="all" />
+    <type fullname="FishMovementPoint" preserve="all" />
+    <type fullname="FishMoverJobs" preserve="all" />
+    <type fullname="FishPool" preserve="all" />
+    <type fullname="FishSpawner" preserve="all" />
+    <type fullname="FishWSNetworkManager" preserve="all" />
+    <type fullname="FlameComboAutoSpinController" preserve="all" />
+    <type fullname="FlameComboBetController" preserve="all" />
+    <type fullname="FlameComboFreeGameTransitionController" preserve="all" />
+    <type fullname="FlameComboFreeSpinController" preserve="all" />
+    <type fullname="FlameComboGameSettings" preserve="all" />
+    <type fullname="FlameComboPaylineController" preserve="all" />
+    <type fullname="FlameComboReelScript" preserve="all" />
+    <type fullname="FlameComboRulesPopupController" preserve="all" />
+    <type fullname="FlameComboSlotMachine" preserve="all" />
+    <type fullname="FlameComboSlotScript" preserve="all" />
+    <type fullname="FlameComboSoundManager" preserve="all" />
+    <type fullname="FlameComboSpinButton" preserve="all" />
+    <type fullname="FlameComboUIButtonController" preserve="all" />
+    <type fullname="FlameComboUIManager" preserve="all" />
+    <type fullname="ForwardScrollEvents" preserve="all" />
+    <type fullname="FPSCounter" preserve="all" />
+    <type fullname="FruitMaryAutoSpinController" preserve="all" />
+    <type fullname="FruitMaryBetController" preserve="all" />
+    <type fullname="FruitMaryFruiMaryGameSlotScript" preserve="all" />
+    <type fullname="FruitMaryFruitMaryGameBoxGame" preserve="all" />
+    <type fullname="FruitMaryFruitMaryGameManager" preserve="all" />
+    <type fullname="FruitMaryFruitMaryGameReelScript" preserve="all" />
+    <type fullname="FruitMaryFruitMaryGameSettings" preserve="all" />
+    <type fullname="FruitMaryFruitMaryGameSlotMachine" preserve="all" />
+    <type fullname="FruitMaryFruitMaryGameSpinService" preserve="all" />
+    <type fullname="FruitMaryGameSettings" preserve="all" />
+    <type fullname="FruitMaryGameTransitionController" preserve="all" />
+    <type fullname="FruitMaryPaylineController" preserve="all" />
+    <type fullname="FruitMaryReelScript" preserve="all" />
+    <type fullname="FruitMaryRulesPopupController" preserve="all" />
+    <type fullname="FruitMarySlotMachine" preserve="all" />
+    <type fullname="FruitMarySlotScript" preserve="all" />
+    <type fullname="FruitMarySoundManager" preserve="all" />
+    <type fullname="FruitMarySpinButton" preserve="all" />
+    <type fullname="FruitMaryUIButtonController" preserve="all" />
+    <type fullname="FruitMaryUIManager" preserve="all" />
+    <type fullname="FruitParadiseAutoSpinController" preserve="all" />
+    <type fullname="FruitParadiseBetController" preserve="all" />
+    <type fullname="FruitParadiseFreeGameTransitionController" preserve="all" />
+    <type fullname="FruitParadiseFreeSpinController" preserve="all" />
+    <type fullname="FruitParadiseGameSettings" preserve="all" />
+    <type fullname="FruitParadiseMenuPanelController" preserve="all" />
+    <type fullname="FruitParadisePaylineController" preserve="all" />
+    <type fullname="FruitParadiseReelScript" preserve="all" />
+    <type fullname="FruitParadiseRulesPopupController" preserve="all" />
+    <type fullname="FruitParadiseSlotMachine" preserve="all" />
+    <type fullname="FruitParadiseSlotScript" preserve="all" />
+    <type fullname="FruitParadiseSoundManager" preserve="all" />
+    <type fullname="FruitParadiseSpinButton" preserve="all" />
+    <type fullname="FruitParadiseUIButtonController" preserve="all" />
+    <type fullname="FruitParadiseUIManager" preserve="all" />
+    <type fullname="FruitSlotAutoSpinController" preserve="all" />
+    <type fullname="FruitSlotBetController" preserve="all" />
+    <type fullname="FruitSlotFreeSpinController" preserve="all" />
+    <type fullname="FruitSlotGameSettings" preserve="all" />
+    <type fullname="FruitSlotGameTransitionController" preserve="all" />
+    <type fullname="FruitSlotMachine" preserve="all" />
+    <type fullname="FruitSlotMenuPanelController" preserve="all" />
+    <type fullname="FruitSlotPaylineController" preserve="all" />
+    <type fullname="FruitSlotReelScript" preserve="all" />
+    <type fullname="FruitSlotRulesPopupController" preserve="all" />
+    <type fullname="FruitSlotScript" preserve="all" />
+    <type fullname="FruitSlotSoundManager" preserve="all" />
+    <type fullname="FruitSlotSpinButton" preserve="all" />
+    <type fullname="FruitSlotUIButtonController" preserve="all" />
+    <type fullname="FruitSlotUIManager" preserve="all" />
+    <type fullname="GameBetServices" preserve="all" />
+    <type fullname="GameCardController" preserve="all" />
+    <type fullname="GameCatalogueController" preserve="all" />
+    <type fullname="GameManager_RPS" preserve="all" />
+    <type fullname="GameSettings_RPS" preserve="all" />
+    <type fullname="GlobeUVScroller" preserve="all" />
+    <type fullname="GoldenDragonAutoSpinController" preserve="all" />
+    <type fullname="GoldenDragonBetController" preserve="all" />
+    <type fullname="GoldenDragonFreeGameTransitionController" preserve="all" />
+    <type fullname="GoldenDragonFreeSpinController" preserve="all" />
+    <type fullname="GoldenDragonGameSettings" preserve="all" />
+    <type fullname="GoldenDragonMiniGame" preserve="all" />
+    <type fullname="GoldenDragonPaylineController" preserve="all" />
+    <type fullname="GoldenDragonReelScript" preserve="all" />
+    <type fullname="GoldenDragonRulesPopupController" preserve="all" />
+    <type fullname="GoldenDragonSlotMachine" preserve="all" />
+    <type fullname="GoldenDragonSlotScript" preserve="all" />
+    <type fullname="GoldenDragonSoundManager" preserve="all" />
+    <type fullname="GoldenDragonSpinButton" preserve="all" />
+    <type fullname="GoldenDragonUIButtonController" preserve="all" />
+    <type fullname="GoldenDragonUIManager" preserve="all" />
+    <type fullname="GunDatabase" preserve="all" />
+    <type fullname="GunManager" preserve="all" />
+    <type fullname="GunSpawnPoint" preserve="all" />
+    <type fullname="HeadTailGame.HeadTailBetManager" preserve="all" />
+    <type fullname="HeadTailGame.HeadTailCoin3DController" preserve="all" />
+    <type fullname="HeadTailGame.HeadTailUIManager" preserve="all" />
+    <type fullname="HeadTailGameManager" preserve="all" />
+    <type fullname="HeadTailGameSettings" preserve="all" />
+    <type fullname="HeadTailSoundManager" preserve="all" />
+    <type fullname="HeartbeatAnimation" preserve="all" />
+    <type fullname="HexagonKeno" preserve="all" />
+    <type fullname="HexagonKenoButton" preserve="all" />
+    <type fullname="HexagonKenoDrawnBallPool" preserve="all" />
+    <type fullname="HexagonKenoGameSettings" preserve="all" />
+    <type fullname="HexagonKenoSoundManager" preserve="all" />
+    <type fullname="HoldableButton" preserve="all" />
+    <type fullname="ImperialDiamondAutoSpinController" preserve="all" />
+    <type fullname="ImperialDiamondBetController" preserve="all" />
+    <type fullname="ImperialDiamondGameSettings" preserve="all" />
+    <type fullname="ImperialDiamondPaylineController" preserve="all" />
+    <type fullname="ImperialDiamondReelScript" preserve="all" />
+    <type fullname="ImperialDiamondRulesPopupController" preserve="all" />
+    <type fullname="ImperialDiamondSlotMachine" preserve="all" />
+    <type fullname="ImperialDiamondSlotScript" preserve="all" />
+    <type fullname="ImperialDiamondSoundManager" preserve="all" />
+    <type fullname="ImperialDiamondSpinButton" preserve="all" />
+    <type fullname="ImperialDiamondUIButtonController" preserve="all" />
+    <type fullname="ImperialDiamondUIManager" preserve="all" />
+    <type fullname="InputManager_RPS" preserve="all" />
+    <type fullname="KenoSoundManager" preserve="all" />
+    <type fullname="LeaderboardPanelManager" preserve="all" />
+    <type fullname="MainMenu.AvatarChangeController" preserve="all" />
+    <type fullname="MainMenu.GamaCatagoryPanalControllor" preserve="all" />
+    <type fullname="MainMenu.GameCardControllor" preserve="all" />
+    <type fullname="MainMenu.GameCardMenuControllor" preserve="all" />
+    <type fullname="MainMenu.GameCatagoryCardControllor" preserve="all" />
+    <type fullname="MainMenu.MainMenuCamera" preserve="all" />
+    <type fullname="MainMenu.MainMenuManager" preserve="all" />
+    <type fullname="MainMenu.MenuBuilding" preserve="all" />
+    <type fullname="MainMenu.MenuBuildingEnvironment" preserve="all" />
+    <type fullname="MainMenu.MenuCategoryEnvironment" preserve="all" />
+    <type fullname="MainMenu.MenuEnvironmentController" preserve="all" />
+    <type fullname="MainMenu.MenuEnvironmentDatabase" preserve="all" />
+    <type fullname="MainMenu.MenuGameMachine" preserve="all" />
+    <type fullname="MainMenu.MM_PlayerController" preserve="all" />
+    <type fullname="MainMenu.MoveTargetMarker" preserve="all" />
+    <type fullname="MainMenu.StartScreen_FirstTime" preserve="all" />
+    <type fullname="MainMenu.SwipeCatagoryCards" preserve="all" />
+    <type fullname="MainMenu.UIDragHandler" preserve="all" />
+    <type fullname="MainMenu.UIGameCardButton" preserve="all" />
+    <type fullname="MainMenu.UILoadingPanel" preserve="all" />
+    <type fullname="MainMenu.UIMainEnvironmentPanel" preserve="all" />
+    <type fullname="MainMenu.UIPanel" preserve="all" />
+    <type fullname="MainMenuOriantation" preserve="all" />
+    <type fullname="MainMenuSceneAcessType" preserve="all" />
+    <type fullname="MainMenuUIManager" preserve="all" />
+    <type fullname="Manager" preserve="all" />
+    <type fullname="MermaidAPIManager" preserve="all" />
+    <type fullname="MermaidBackendBridge" preserve="all" />
+    <type fullname="MonkeyMadnessAutoSpinController" preserve="all" />
+    <type fullname="MonkeyMadnessBetController" preserve="all" />
+    <type fullname="MonkeyMadnessBoardAnimation" preserve="all" />
+    <type fullname="MonkeyMadnessGameSettings" preserve="all" />
+    <type fullname="MonkeyMadnessPayboardController" preserve="all" />
+    <type fullname="MonkeyMadnessPaylineController" preserve="all" />
+    <type fullname="MonkeyMadnessReelScript" preserve="all" />
+    <type fullname="MonkeyMadnessRulesPopupController" preserve="all" />
+    <type fullname="MonkeyMadnessSlotMachine" preserve="all" />
+    <type fullname="MonkeyMadnessSlotScript" preserve="all" />
+    <type fullname="MonkeyMadnessSoundManager" preserve="all" />
+    <type fullname="MonkeyMadnessSpinButton" preserve="all" />
+    <type fullname="MonkeyMadnessUIButtonController" preserve="all" />
+    <type fullname="MonkeyMadnessUIManager" preserve="all" />
+    <type fullname="NotificationEntryUI" preserve="all" />
+    <type fullname="OctagonKeno" preserve="all" />
+    <type fullname="OctagonKenoButton" preserve="all" />
+    <type fullname="OctagonKenoGameSettings" preserve="all" />
+    <type fullname="OctagonKenoSoundManager" preserve="all" />
+    <type fullname="PandaFortuneAutoSpinController" preserve="all" />
+    <type fullname="PandaFortuneBetController" preserve="all" />
+    <type fullname="PandaFortuneFreeGameTransitionController" preserve="all" />
+    <type fullname="PandaFortuneFreeSpinController" preserve="all" />
+    <type fullname="PandaFortuneGameSettings" preserve="all" />
+    <type fullname="PandaFortunePaylineController" preserve="all" />
+    <type fullname="PandaFortuneReelScript" preserve="all" />
+    <type fullname="PandaFortuneRulesPopupController" preserve="all" />
+    <type fullname="PandaFortuneSlotMachine" preserve="all" />
+    <type fullname="PandaFortuneSlotScript" preserve="all" />
+    <type fullname="PandaFortuneSoundManager" preserve="all" />
+    <type fullname="PandaFortuneSpinButton" preserve="all" />
+    <type fullname="PandaFortuneUIButtonController" preserve="all" />
+    <type fullname="PandaFortuneUIManager" preserve="all" />
+    <type fullname="ParallaxEffect" preserve="all" />
+    <type fullname="PasswordChangeManager" preserve="all" />
+    <type fullname="PiratesOfTheCaribbeanAutoSpinController" preserve="all" />
+    <type fullname="PiratesOfTheCaribbeanBetController" preserve="all" />
+    <type fullname="PiratesOfTheCaribbeanFreeGameTransitionController" preserve="all" />
+    <type fullname="PiratesOfTheCaribbeanFreeSpinController" preserve="all" />
+    <type fullname="PiratesOfTheCaribbeanGameSettings" preserve="all" />
+    <type fullname="PiratesOfTheCaribbeanPaylineController" preserve="all" />
+    <type fullname="PiratesOfTheCaribbeanPaylineDrawer" preserve="all" />
+    <type fullname="PiratesOfTheCaribbeanReelScript" preserve="all" />
+    <type fullname="PiratesOfTheCaribbeanRulesPopupController" preserve="all" />
+    <type fullname="PiratesOfTheCaribbeanSlotMachine" preserve="all" />
+    <type fullname="PiratesOfTheCaribbeanSlotScript" preserve="all" />
+    <type fullname="PiratesOfTheCaribbeanSoundManager" preserve="all" />
+    <type fullname="PiratesOfTheCaribbeanUIButtonController" preserve="all" />
+    <type fullname="PiratesOfTheCaribbeanUIManager" preserve="all" />
+    <type fullname="PlayGameCardShiner" preserve="all" />
+    <type fullname="ProfilePanelManager" preserve="all" />
+    <type fullname="QuickHitVolcanoAutoSpinController" preserve="all" />
+    <type fullname="QuickHitVolcanoBetController" preserve="all" />
+    <type fullname="QuickHitVolcanoFreeSpinController" preserve="all" />
+    <type fullname="QuickHitVolcanoGameSettings" preserve="all" />
+    <type fullname="QuickHitVolcanoGameTransitionController" preserve="all" />
+    <type fullname="QuickHitVolcanoPaylineController" preserve="all" />
+    <type fullname="QuickHitVolcanoQuickHitsDisplayManager" preserve="all" />
+    <type fullname="QuickHitVolcanoQuickPickGameManager" preserve="all" />
+    <type fullname="QuickHitVolcanoQuickPickItem" preserve="all" />
+    <type fullname="QuickHitVolcanoQuickPickLightManager" preserve="all" />
+    <type fullname="QuickHitVolcanoQuickPickListGenerator" preserve="all" />
+    <type fullname="QuickHitVolcanoReelScript" preserve="all" />
+    <type fullname="QuickHitVolcanoRulesPopupController" preserve="all" />
+    <type fullname="QuickHitVolcanoSlotMachine" preserve="all" />
+    <type fullname="QuickHitVolcanoSlotScript" preserve="all" />
+    <type fullname="QuickHitVolcanoSoundManager" preserve="all" />
+    <type fullname="QuickHitVolcanoSpinButton" preserve="all" />
+    <type fullname="QuickHitVolcanoUIButtonController" preserve="all" />
+    <type fullname="QuickHitVolcanoUIManager" preserve="all" />
+    <type fullname="SaharaRichesAutoSpinController" preserve="all" />
+    <type fullname="SaharaRichesBetController" preserve="all" />
+    <type fullname="SaharaRichesFreeGameTransitionController" preserve="all" />
+    <type fullname="SaharaRichesFreeSpinController" preserve="all" />
+    <type fullname="SaharaRichesGameSettings" preserve="all" />
+    <type fullname="SaharaRichesJackpotAnimator" preserve="all" />
+    <type fullname="SaharaRichesJackpotPanelController" preserve="all" />
+    <type fullname="SaharaRichesJackpotReelSpin" preserve="all" />
+    <type fullname="SaharaRichesPaylineController" preserve="all" />
+    <type fullname="SaharaRichesReelScript" preserve="all" />
+    <type fullname="SaharaRichesRulesPopupController" preserve="all" />
+    <type fullname="SaharaRichesSlotMachine" preserve="all" />
+    <type fullname="SaharaRichesSlotScript" preserve="all" />
+    <type fullname="SaharaRichesSoundManager" preserve="all" />
+    <type fullname="SaharaRichesUIButtonController" preserve="all" />
+    <type fullname="SaharaRichesUIManager" preserve="all" />
+    <type fullname="SettingsPanelController" preserve="all" />
+    <type fullname="SlotSpinService" preserve="all" />
+    <type fullname="SpinResultController" preserve="all" />
+    <type fullname="SpinWheel" preserve="all" />
+    <type fullname="SpinWheelButtonAnimator" preserve="all" />
+    <type fullname="SpinwheelFadeout" preserve="all" />
+    <type fullname="SpinWheelManager" preserve="all" />
+    <type fullname="SpriteFillController" preserve="all" />
+    <type fullname="SpriteManager" preserve="all" />
+    <type fullname="SpritePositionHandler" preserve="all" />
+    <type fullname="StarBurstSlotsAutoSpinController" preserve="all" />
+    <type fullname="StarBurstSlotsBetController" preserve="all" />
+    <type fullname="StarBurstSlotsFreeGameTransitionController" preserve="all" />
+    <type fullname="StarBurstSlotsFreeSpinController" preserve="all" />
+    <type fullname="StarBurstSlotsGameSettings" preserve="all" />
+    <type fullname="StarBurstSlotsPaylineController" preserve="all" />
+    <type fullname="StarBurstSlotsReelScript" preserve="all" />
+    <type fullname="StarBurstSlotsRulesPopupController" preserve="all" />
+    <type fullname="StarBurstSlotsSlotMachine" preserve="all" />
+    <type fullname="StarBurstSlotsSlotScript" preserve="all" />
+    <type fullname="StarBurstSlotsSoundManager" preserve="all" />
+    <type fullname="StarBurstSlotsSpinButton" preserve="all" />
+    <type fullname="StarBurstSlotsUIButtonController" preserve="all" />
+    <type fullname="StarBurstSlotsUIManager" preserve="all" />
+    <type fullname="starFxController" preserve="all" />
+    <type fullname="SuperBallGameSettings" preserve="all" />
+    <type fullname="SuperBallKeno" preserve="all" />
+    <type fullname="SuperBallKenoButton" preserve="all" />
+    <type fullname="SuperBallKenoDrawnBallPool" preserve="all" />
+    <type fullname="SuperBombAutoSpinController" preserve="all" />
+    <type fullname="SuperBombBetController" preserve="all" />
+    <type fullname="SuperBombFreeGameTransitionController" preserve="all" />
+    <type fullname="SuperBombFreeSpinController" preserve="all" />
+    <type fullname="SuperBombGameSettings" preserve="all" />
+    <type fullname="SuperBombPaylineController" preserve="all" />
+    <type fullname="SuperBombReelScript" preserve="all" />
+    <type fullname="SuperBombRulesPopupController" preserve="all" />
+    <type fullname="SuperBombSlotMachine" preserve="all" />
+    <type fullname="SuperBombSlotScript" preserve="all" />
+    <type fullname="SuperBombSoundManager" preserve="all" />
+    <type fullname="SuperBombSpinButton" preserve="all" />
+    <type fullname="SuperBombUIButtonController" preserve="all" />
+    <type fullname="SuperBombUIManager" preserve="all" />
+    <type fullname="TenTimesWinsAutoSpinController" preserve="all" />
+    <type fullname="TenTimesWinsBetController" preserve="all" />
+    <type fullname="TenTimesWinsGameSettings" preserve="all" />
+    <type fullname="TenTimesWinsPaylineController" preserve="all" />
+    <type fullname="TenTimesWinsReelScript" preserve="all" />
+    <type fullname="TenTimesWinsRulesPopupController" preserve="all" />
+    <type fullname="TenTimesWinsSlotMachine" preserve="all" />
+    <type fullname="TenTimesWinsSlotScript" preserve="all" />
+    <type fullname="TenTimesWinsSoundManager" preserve="all" />
+    <type fullname="TenTimesWinsSpinButton" preserve="all" />
+    <type fullname="TenTimesWinsUIButtonController" preserve="all" />
+    <type fullname="TenTimesWinsUIManager" preserve="all" />
+    <type fullname="TheGreenMachineDeluxeAutoSpinController" preserve="all" />
+    <type fullname="TheGreenMachineDeluxeBetController" preserve="all" />
+    <type fullname="TheGreenMachineDeluxeFreeGameTransitionController" preserve="all" />
+    <type fullname="TheGreenMachineDeluxeFreeSpinController" preserve="all" />
+    <type fullname="TheGreenMachineDeluxeGameSettings" preserve="all" />
+    <type fullname="TheGreenMachineDeluxeReelScript" preserve="all" />
+    <type fullname="TheGreenMachineDeluxeRulesPopupController" preserve="all" />
+    <type fullname="TheGreenMachineDeluxeSlotMachine" preserve="all" />
+    <type fullname="TheGreenMachineDeluxeSlotScript" preserve="all" />
+    <type fullname="TheGreenMachineDeluxeSoundManager" preserve="all" />
+    <type fullname="TheGreenMachineDeluxeUIButtonController" preserve="all" />
+    <type fullname="TheGreenMachineDeluxeUIManager" preserve="all" />
+    <type fullname="UIBlocker" preserve="all" />
+    <type fullname="UIManager_RPS" preserve="all" />
+    <type fullname="UnitySessionManager" preserve="all" />
+    <type fullname="VegasSevenAutoSpinController" preserve="all" />
+    <type fullname="VegasSevenBetController" preserve="all" />
+    <type fullname="VegasSevenFreeGameTransitionController" preserve="all" />
+    <type fullname="VegasSevenFreeSpinController" preserve="all" />
+    <type fullname="VegasSevenGameSettings" preserve="all" />
+    <type fullname="VegasSevenPaylineController" preserve="all" />
+    <type fullname="VegasSevenReelScript" preserve="all" />
+    <type fullname="VegasSevenRulesPopupController" preserve="all" />
+    <type fullname="VegasSevenSlotMachine" preserve="all" />
+    <type fullname="VegasSevenSlotScript" preserve="all" />
+    <type fullname="VegasSevenSoundManager" preserve="all" />
+    <type fullname="VegasSevenUIButtonController" preserve="all" />
+    <type fullname="VegasSevenUIManager" preserve="all" />
+    <type fullname="WebSocketManager" preserve="all" />
+    <type fullname="WheelManager_RPS" preserve="all" />
+    <type fullname="WheelOfFortuneAutoSpinController" preserve="all" />
+    <type fullname="WheelOfFortuneBetController" preserve="all" />
+    <type fullname="WheelOfFortuneFreeGameTransitionController" preserve="all" />
+    <type fullname="WheelOfFortuneFreeSpinController" preserve="all" />
+    <type fullname="WheelOfFortuneGameSettings" preserve="all" />
+    <type fullname="WheelOfFortunePaylineController" preserve="all" />
+    <type fullname="WheelOfFortuneReelScript" preserve="all" />
+    <type fullname="WheelOfFortuneRulesPopupController" preserve="all" />
+    <type fullname="WheelOfFortuneSlotMachine" preserve="all" />
+    <type fullname="WheelOfFortuneSlotScript" preserve="all" />
+    <type fullname="WheelOfFortuneSoundManager" preserve="all" />
+    <type fullname="WheelOfFortuneSpinButton" preserve="all" />
+    <type fullname="WheelOfFortuneUIButtonController" preserve="all" />
+    <type fullname="WheelOfFortuneUIManager" preserve="all" />
+    <type fullname="WipeAnimation" preserve="all" />
+    <type fullname="ZombieParadiseAutoSpinController" preserve="all" />
+    <type fullname="ZombieParadiseBetController" preserve="all" />
+    <type fullname="ZombieParadiseFreeGameTransitionController" preserve="all" />
+    <type fullname="ZombieParadiseFreeSpinController" preserve="all" />
+    <type fullname="ZombieParadiseGameSettings" preserve="all" />
+    <type fullname="ZombieParadisePaylineController" preserve="all" />
+    <type fullname="ZombieParadiseReelScript" preserve="all" />
+    <type fullname="ZombieParadiseRulesPopupController" preserve="all" />
+    <type fullname="ZombieParadiseSlotMachine" preserve="all" />
+    <type fullname="ZombieParadiseSlotScript" preserve="all" />
+    <type fullname="ZombieParadiseSoundManager" preserve="all" />
+    <type fullname="ZombieParadiseSpinButton" preserve="all" />
+    <type fullname="ZombieParadiseUIButtonController" preserve="all" />
+    <type fullname="ZombieParadiseUIManager" preserve="all" />
+    <type fullname="CrazySevenSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="CrazySevenSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="CrazySevenSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="CrazySevenPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="JackpotWinData" preserve="nothing" serialized="true" />
+    <type fullname="SpinResult" preserve="nothing" serialized="true" />
+    <type fullname="TreasureChestResult" preserve="nothing" serialized="true" />
+    <type fullname="ZombieParadiseSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="ZombieParadiseSlotSettings" preserve="nothing" serialized="true" />
+    <type fullname="ZombieParadiseSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="ZombieParadiseSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="ZombieParadiseSpinResult" preserve="nothing" serialized="true" />
+    <type fullname="GoldenDragonSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="GoldenDragonSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="GoldenDragonSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="CardData" preserve="nothing" serialized="true" />
+    <type fullname="GoldenDragonMiniGameCoinUpdateResposne" preserve="nothing" serialized="true" />
+    <type fullname="GoldenDragonPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="PandaFortuneSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="PandaFortuneSlotSettings" preserve="nothing" serialized="true" />
+    <type fullname="PandaFortuneSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="PandaFortuneSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="PandaFortunePaylineData" preserve="nothing" serialized="true" />
+    <type fullname="TenTimesWinsGameSettings/SoundItem" preserve="nothing" serialized="true" />
+    <type fullname="TenTimesWinsSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="TenTimesWinsSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="TenTimesWinsPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="PiratesOfTheCaribbeanSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="PiratesOfTheCaribbeanSlotSettings" preserve="nothing" serialized="true" />
+    <type fullname="PiratesOfTheCaribbeanSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="PiratesOfTheCaribbeanSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="PiratesOfTheCaribbeanPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="VegasSevenResource" preserve="nothing" serialized="true" />
+    <type fullname="VegasSevenSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="VegasSevenSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="VegasSevenPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="AtomicMeltdownSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="AtomicMeltdownSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="AtomicMeltdownSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="AtomicMeltdownPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="DoubleJackpotBullseyeSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="DoubleJackpotBullseyeSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="DoubleJackpotBullseyeSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="DoubleJackpotBullseyePaylineData" preserve="nothing" serialized="true" />
+    <type fullname="CleopatraGameSettings/SoundItem" preserve="nothing" serialized="true" />
+    <type fullname="CleopatraSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="CleopatraSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="CleopatraPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="TheGreenMachineDeluxeSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="TheGreenMachineDeluxeSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="TheGreenMachineDeluxeSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="ImperialDiamondResource" preserve="nothing" serialized="true" />
+    <type fullname="ImperialDiamondSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="ImperialDiamondSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="ImperialDiamondPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="MonkeyMadnessGameSettings/SoundItem" preserve="nothing" serialized="true" />
+    <type fullname="MonkeyMadnessSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="MonkeyMadnessSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="MonkeyMadnessPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="DayOfDeadSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="DayOfDeadSlotSettings" preserve="nothing" serialized="true" />
+    <type fullname="DayOfDeadSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="DayOfDeadSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="DayOfDeadPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="SaharaRichesSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="SaharaRichesSlotSettings" preserve="nothing" serialized="true" />
+    <type fullname="SaharaRichesSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="SaharaRichesSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="SaharaRichesPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="FruitMaryFruitMaryGameSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="FruitMarySlotResource" preserve="nothing" serialized="true" />
+    <type fullname="FruitMarySoundItem" preserve="nothing" serialized="true" />
+    <type fullname="FruitMarySpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="FruitMaryGame" preserve="nothing" serialized="true" />
+    <type fullname="FruitMaryPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="WheelOfFortuneSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="WheelOfFortuneSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="WheelOfFortuneSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="WheelOfFortunePaylineData" preserve="nothing" serialized="true" />
+    <type fullname="HeadTailSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="CurrentPick" preserve="nothing" serialized="true" />
+    <type fullname="ComeOnCashSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="ComeOnCashSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="ComeOnCashSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="ComeOnCashPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="HexagonKenoGameSettings/SoundItem" preserve="nothing" serialized="true" />
+    <type fullname="HexaKenoResponse" preserve="nothing" serialized="true" />
+    <type fullname="SuperBallGameSettings/SoundItem" preserve="nothing" serialized="true" />
+    <type fullname="SuperBallKenoResponse" preserve="nothing" serialized="true" />
+    <type fullname="FruitSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="FruitSlotSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="FruitSlotSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="FruitSlotPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="OctagonKenoGameSettings/SoundItem" preserve="nothing" serialized="true" />
+    <type fullname="OctagonKeno/OctagonKenoResponse" preserve="nothing" serialized="true" />
+    <type fullname="CashMachineSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="CashMachineSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="CashMachineSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="CashMachinePaylineData" preserve="nothing" serialized="true" />
+    <type fullname="QuickHitVolcanoSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="QuickHitVolcanoSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="QuickHitVolcanoSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="QuickHitData" preserve="nothing" serialized="true" />
+    <type fullname="QuickHitPair" preserve="nothing" serialized="true" />
+    <type fullname="QuickHitVolcanoPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="QuickHitVolcanoQuickPickLightManager/LightGroup" preserve="nothing" serialized="true" />
+    <type fullname="SuperBombPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="SuperBombSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="SuperBombSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="SuperBombSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="BonusFishSet" preserve="nothing" serialized="true" />
+    <type fullname="FishData" preserve="nothing" serialized="true" />
+    <type fullname="GunDatabase/GunLevel" preserve="nothing" serialized="true" />
+    <type fullname="PatternFishGroup" preserve="nothing" serialized="true" />
+    <type fullname="GameSettings_RPS/SoundItem" preserve="nothing" serialized="true" />
+    <type fullname="SerializableClasses/RPSResponse" preserve="nothing" serialized="true" />
+    <type fullname="FruitParadiseSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="FruitParadiseSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="FruitParadiseSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="FruitParadisePaylineData" preserve="nothing" serialized="true" />
+    <type fullname="ComeOnCash2SlotResource" preserve="nothing" serialized="true" />
+    <type fullname="ComeOnCash2SoundItem" preserve="nothing" serialized="true" />
+    <type fullname="ComeOnCash2SpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="ComeOnCash2PaylineData" preserve="nothing" serialized="true" />
+    <type fullname="FlameComboSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="FlameComboSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="FlameComboSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="FlameComboPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="CartoonFX.CFXR_Effect/AnimatedLight" preserve="nothing" serialized="true" />
+    <type fullname="CartoonFX.CFXR_Effect/CameraShake" preserve="nothing" serialized="true" />
+    <type fullname="SpinResponse" preserve="nothing" serialized="true" />
+    <type fullname="BiggerBassBonanzaSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="BiggerBassBonanzaSlotSettings" preserve="nothing" serialized="true" />
+    <type fullname="BiggerBassBonanzaSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="BiggerBassBonanzaSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="BiggerBassBonanzaPaylineData" preserve="nothing" serialized="true" />
+    <type fullname="BiggerBassBonanzaSpinResult" preserve="nothing" serialized="true" />
+    <type fullname="StarBurstSlotsSlotResource" preserve="nothing" serialized="true" />
+    <type fullname="StarBurstSlotsSoundItem" preserve="nothing" serialized="true" />
+    <type fullname="StarBurstSlotsSpinSettings" preserve="nothing" serialized="true" />
+    <type fullname="StarBurstSlotsPaylineData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="GlobleSoundManager" preserve="all" />
+  </assembly>
+  <assembly fullname="DOTween, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DG.Tweening.Core.DOTweenSettings" preserve="all" />
+    <type fullname="DG.Tweening.Core.DOTweenSettings/ModulesSetup" preserve="nothing" serialized="true" />
+    <type fullname="DG.Tweening.Core.DOTweenSettings/SafeModeOptions" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UIEffect, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Coffee.UIEffects.UIShiny" preserve="all" />
+    <type fullname="Coffee.UIEffects.UITransitionEffect" preserve="all" />
+    <type fullname="Coffee.UIEffects.EffectPlayer" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.2D.Animation.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.U2D.Animation.SpriteSkin" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.Universal.DecalProjector" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.Light2D" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.PostProcessData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.Renderer2DData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalCameraData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalLightData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.UniversalRendererData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.UniversalRenderPipelineGlobalSettings" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.XRSystemData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.TemporalAA/Settings" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Universal.PostProcessData/ShaderResources" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Universal.PostProcessData/TextureResources" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Universal.ScriptableRendererData/DebugShaderResources" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Universal.StencilStateData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Universal.UniversalRendererData/ShaderResources" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Universal.XRSystemData/ShaderResources" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Universal.Light2DBlendStyle" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset/TextureResources" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshPro" preserve="all" />
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_InputField" preserve="all" />
+    <type fullname="TMPro.TMP_SpriteAsset" preserve="all" />
+    <type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.Flare" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Rendering.SortingGroup" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.RenderTexture" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Boolean]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider2D" preserve="all" />
+    <type fullname="UnityEngine.CircleCollider2D" preserve="all" />
+    <type fullname="UnityEngine.PhysicsMaterial2D" preserve="all" />
+    <type fullname="UnityEngine.PolygonCollider2D" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.SpriteMaskModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.SpriteMask" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.Physics2DRaycaster" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.InputField" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIElementsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UIElements.PanelSettings" preserve="all" />
+    <type fullname="UnityEngine.UIElements.StyleSheet" preserve="all" />
+    <type fullname="UnityEngine.UIElements.ThemeStyleSheet" preserve="all" />
+    <type fullname="UnityEngine.UIElements.UIDocument" preserve="all" />
+    <type fullname="UnityEngine.UIElements.VisualTreeAsset" preserve="all" />
+    <type fullname="UnityEngine.UIElements.DynamicAtlasSettings" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UIElements.StyleComplexSelector" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UIElements.StyleProperty" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UIElements.StyleRule" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UIElements.StyleSelector" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UIElements.StyleSelectorPart" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UIElements.StyleSheet/ImportStruct" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UIElements.StyleSheets.Dimension" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UIElements.StyleSheets.ScalableImage" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UIElements.StyleValueHandle" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UIElements.TextField/UxmlFactory" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UIElements.UxmlRootElementFactory" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UIElements.VisualElementAsset" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="WebGLInput, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Sample" preserve="all" />
+    <type fullname="WebGLSupport.WebGLInput" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" fill="none">
+  <defs>
+    <style>
+      .ink { stroke: #E5E7EB; stroke-width: 10; stroke-linecap: round; stroke-linejoin: round; fill: none; opacity: .95; }
+      @keyframes phoneTurn { 0%,55% { transform: rotate(0deg); } 100% { transform: rotate(90deg); } }
+    </style>
+  </defs>
+
+  <!-- minimal phone -->
+  <g style="transform-origin: 110px 110px; animation: phoneTurn 1.3s ease-in-out infinite alternate;">
+    <rect x="78" y="38" width="64" height="144" rx="16" class="ink"/>
+    <path d="M98 56h24" class="ink"/>
+    <circle cx="110" cy="166" r="6" fill="#E5E7EB" opacity="0.9"/>
+  </g>
+
+</svg>
