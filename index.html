@@ -40,10 +40,10 @@
       <div id="rotate-overlay" aria-hidden="true">
         <img
           src="TemplateData/rotate-device-anim.svg"
-          alt="Rotate device to landscape"
+          alt="Rotate device to portrait"
           onerror="this.onerror=null; this.src='TemplateData/rotate-device.svg';"
         >
-        <div class="rotate-hint">Rotate your device to landscape.</div>
+        <div class="rotate-hint">Rotate your device to portrait.</div>
       </div>
       <canvas id="unity-canvas" width=1920 height=1080 tabindex="-1"></canvas>
       <div id="unity-loading-bar">
@@ -136,7 +136,11 @@
 
         const handler = () => {
           fullscreenArmed = false;
-          if (!isInFullscreen() && rotateOverlay.style.display !== "flex") enterFullscreen();
+          // Re-evaluate orientation at gesture-time. If we are enforcing portrait on mobile
+          // and the device is currently landscape, keep the rotate overlay up and do not
+          // attempt fullscreen yet.
+          updateOrientationUI();
+          if (!isInFullscreen() && !(isMobile() && !isPortrait())) enterFullscreen();
         };
 
         // Capture the next user gesture as early as possible (even during loading).
@@ -176,7 +180,8 @@
           return;
         }
 
-        if (isPortrait()) {
+        // For mobile: enforce portrait (show overlay when in landscape).
+        if (!isPortrait()) {
           rotateOverlay.style.display = "flex";
           rotateOverlay.setAttribute("aria-hidden", "false");
         } else {
