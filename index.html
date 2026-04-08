@@ -140,8 +140,12 @@
         };
 
         // Capture the next user gesture as early as possible (even during loading).
+        // Note: once Unity is running, it may stop event bubbling on the canvas.
+        // To ensure we still see a user gesture, listen on both window and canvas/container,
+        // and do it in capture phase.
+        const targets = [window, container, canvas].filter(Boolean);
         ["pointerdown", "touchend", "click"].forEach((eventName) => {
-          window.addEventListener(eventName, handler, { once: true });
+          targets.forEach((t) => t.addEventListener(eventName, handler, { once: true, capture: true }));
         });
       };
 
