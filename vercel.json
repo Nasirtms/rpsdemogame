@@ -8,12 +8,6 @@
       ]
     },
     {
-      "source": "/sw.js",
-      "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
-      ]
-    },
-    {
       "source": "/Build/(.*)\\.unityweb",
       "headers": [
         { "key": "Content-Encoding", "value": "gzip" },

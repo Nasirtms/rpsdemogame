@@ -70,15 +70,6 @@
       var pendingFullscreen = false;
       var fullscreenArmed = false;
 
-      // Enable asset caching for faster reloads/offline support.
-      if ("serviceWorker" in navigator) {
-        window.addEventListener("load", () => {
-          navigator.serviceWorker.register("./sw.js").catch((err) => {
-            console.warn("Service worker registration failed:", err);
-          });
-        });
-      }
-
       const isInFullscreen = () =>
         !!(document.fullscreenElement || document.webkitFullscreenElement || document.msFullscreenElement);
 
